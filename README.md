@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluştuduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![foto](/Users/erdembeler/Desktop/Ekran Resmi 2022-08-04 21.41.47.png)
+![foto](/Users/erdembeler/Desktop/screen.png)
 
 ## Installation
 
